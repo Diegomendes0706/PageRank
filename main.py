@@ -9,7 +9,7 @@ def pagerank(grafo, d, M, i):
     A = (1 - d) / n * E + d * M
     P = np.ones((n, 1)) / n
     for c in range(i):
-        pg = A @ P
+        pr = A @ P
         P = pr
     return pr
 
