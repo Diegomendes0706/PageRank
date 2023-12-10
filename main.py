@@ -10,8 +10,8 @@ def pagerank(grafo, d, M, i):
     P = np.ones((n, 1)) / n
     for c in range(i):
         pg = A @ P
-        P = pg
-    return pg
+        P = pr
+    return pr
 
 
 grafo = {'1': ["4"], '2': ['1', '3'], '3': ['4'], '4': ['2']}
