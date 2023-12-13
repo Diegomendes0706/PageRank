@@ -27,4 +27,4 @@ Este programa em Python implementa o algoritmo PageRank usando a biblioteca Netw
 3. Rode o programa
 
 4. Exemplo de saida:
-   ![image](https://github.com/Diegomendes0706/PageRank/assets/109991097/d3ccaaff-0f80-41f5-9fb3-901ca4addc66)
+    ![image](https://github.com/Diegomendes0706/PageRank/assets/109991097/d3ccaaff-0f80-41f5-9fb3-901ca4addc66)
